@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "454275844640",
+    "firebase_url": "https://appbilel-d9aff-default-rtdb.firebaseio.com",
+    "project_id": "appbilel-d9aff",
+    "storage_bucket": "appbilel-d9aff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454275844640:android:2675c040d4eaec82a70a45",
+        "android_client_info": {
+          "package_name": "com.example.appbilel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454275844640-f1k42jr211jchcipsoce8bfgp5h4ofdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb3qkTikad8sFmHALV061h5GeOHrLr4Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454275844640-f1k42jr211jchcipsoce8bfgp5h4ofdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

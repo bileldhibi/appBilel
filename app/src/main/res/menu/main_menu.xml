@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/addDevice"
+            android:icon="@drawable/add_24"
+            android:title="Ajouter un appareil" />
+
+        <item
+            android:id="@+id/addCapteurs"
+            android:icon="@drawable/electric_bolt_24"
+            android:title="électrolyse" />
+
+        <item
+            android:id="@+id/addProfil"
+            android:icon="@drawable/account_box_24"
+            android:title="Profil" />
+
+    </group>
+
+</menu>
